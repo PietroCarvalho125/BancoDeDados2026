@@ -1,0 +1,47 @@
+INSERT into quarto (andar, quarto, tipo) VALUES
+  ('1º Andar','11','Individual'),
+  ('1º Andar','12','Casal'),
+  ('1º Andar','13','Familia + Cama Solteiro'),
+  ('1º Andar','14','Familia + 2 Cama Solteiro'),
+  ('2º Andar','21','Familia + Cama Solteiro'),
+  ('2º Andar','22','Familia + 2 Cama Solteiro'),
+  ('2º Andar','23','Mega Familia'),
+  ('2º Andar','24','Suite Presidencial'),
+  ('3º Andar','31','Familia + Cama Solteiro'),
+  ('3º Andar','32','Familia + Cama Solteiro'),
+  ('3º Andar','33','Mega Familia'),
+  ('3º Andar','34','Suite Presidencial');
+  
+
+INSERT into servicos (servico,tipo,valor) VALUES
+  ('Coca Cola Lata','Bebida',5.00),
+  ('Coca Cola 2L','Bebida',20.00),
+  ('Coca Cola 600','Bebida',8.00),
+  ('Cerveja Lata - Skol','Bebida',10.50),
+  ('Cerveja Lata - Amstel','Bebida',12.50),
+  ('Cerveja Lata - Amstel Ultra','Bebida',15.50),
+  ('Porção De Batata G','Comida',25.00),
+  ('Porção De Batata M','Comida',20.00),
+  ('Porção De Batata P','Comida',15.00),
+  ('Almoço','Comida',25.00),
+  ('Massagem 30 Min','Lazer',35.00),
+  ('Massagem 1 Hora','Lazer',60.00),
+  ('Aluguel Bicicleta','Lazer',50.00);
+  
+  
+INSERT into servicos (servico,tipo,valor) VALUES
+  ('Coca Cola Lata','Bebida',5.00),
+  ('Coca Cola 2L','Bebida',20.00),
+  ('Coca Cola 600','Bebida',8.00),
+  ('Cerveja Lata - Skol','Bebida',10.50),
+  ('Cerveja Lata - Amstel','Bebida',12.50),
+  ('Cerveja Lata - Amstel Ultra','Bebida',15.50),
+  ('Porção De Batata G','Comida',25.00),
+  ('Porção De Batata M','Comida',20.00),
+  ('Porção De Batata P','Comida',15.00),
+  ('Almoço','Comida',25.00),
+  ('Massagem 30 Min','Lazer',35.00),
+  ('Massagem 1 Hora','Lazer',60.00),
+  ('Aluguel Bicicleta','Lazer',50.00);
+
+
